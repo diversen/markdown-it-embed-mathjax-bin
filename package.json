@@ -1,0 +1,29 @@
+{
+  "name": "markdown-it-embed-mathjax-bin",
+  "version": "1.0.0",
+  "description": "A markdown-it binary with support for embeding html5 videos and mathjax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/markdown-it-embed-mathjax-bin.git"
+  },
+  "keywords": [
+    "markdown-it",
+    "mathjax",
+    "markdown"
+  ],
+  "author": "dennis iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/markdown-it-embed-mathjax-bin/issues"
+  },
+  "homepage": "https://github.com/diversen/markdown-it-embed-mathjax-bin#readme",
+  "dependencies": {
+    "get-stdin": "^5.0.1",
+    "markdown-it-embed-mathjax": "^1.0.3",
+    "minimist": "^1.2.0"
+  }
+}
