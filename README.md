@@ -1,6 +1,6 @@
 markdown-it-embed-mathjax-bin
 
-Install
+Install:
 
     npm install -g markdown-it-embed-mathjax-bin
 
