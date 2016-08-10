@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-embed-mathjax-bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A markdown-it binary with support for embeding html5 videos and mathjax",
   "main": "index.js",
   "scripts": {
