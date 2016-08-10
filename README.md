@@ -4,7 +4,7 @@ Install:
 
     npm install -g markdown-it-embed-mathjax-bin
 
-Translate a string to a markdown-it rendered string (with mp4 embedding and mathjax): 
+Translate a string to a markdown-it rendered string (with option for CSS classes, mp4 embedding and mathjax): 
 Reads from stdin or file(s), and outputs to stdout. 
 
 Example with stdin from a shell: 
@@ -22,18 +22,16 @@ Options are the same as markdown-it options:
 
 Beside you can set mode: --mode=commonmark (or zero or default)
 
+Video (like images):
 
-    Video (like images):
+    ![video test](http://techslides.com/demos/sample-videos/small.mp4)
 
-![video test](http://techslides.com/demos/sample-videos/small.mp4)
+Mathjax: 
 
-    Mathjax: 
+    $1 *2* 3$
 
-
-$1 *2* 3$
-
-    Related (API for the module)
+Related (API for the module)
 
 https://github.com/diversen/markdown-it-embed-mathjax.git
 
-
+@ MIT
