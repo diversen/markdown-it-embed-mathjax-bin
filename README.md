@@ -1,5 +1,9 @@
 markdown-it-embed-mathjax-bin
 
+@deprecated
+
+Moved to <https://github.com/diversen/markdown-it-embed-mathjax>
+
 Install:
 
     npm install -g markdown-it-embed-mathjax-bin
